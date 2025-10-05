@@ -1,3 +1,4 @@
+Try the live mock Web3 wallet: https://ethwallet-app.vercel.app/
 # Web3 Wallet
 
 A modern, secure Ethereum wallet application built with React and TypeScript. Manage your crypto assets, send transactions, and interact with the Ethereum blockchain seamlessly.
